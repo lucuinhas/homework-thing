@@ -3,12 +3,14 @@
     "subject": "math",
     "date": "24/12/24",
     "simpleDescription": "why am i anxious", 
-    "complicatedDescription": "tom cardy is really awesome"
+    "complicatedDescription": "tom cardy is really awesome",
+    "uuid": "8D6971E6-8D00-4B18-858B-47BA262BA3E8"
   }, 
   {
     "subject": "portuguese",
     "date": "23/12/24",
     "simpleDescription": "it must be believed to be seen", 
-    "complicatedDescription": "willy wonka has a musical"
+    "complicatedDescription": "willy wonka has a musical",
+    "uuid": "ADAA9FE8-27EC-434A-8E54-5690847DF38F"
   }
 ]
