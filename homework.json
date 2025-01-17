@@ -5,7 +5,8 @@
 		"category": "booklet",
 		"title": "anestesiado",
 		"simpleDescription": "murilo huff",
-		"complicatedDescription": "entao como tem coragem de ficar falando mal dos meus vícios"
+		"complicatedDescription": "entao como tem coragem de ficar falando mal dos meus vícios",
+		"uuid": "a1e6fe27-abb9-4a91-9248-ecf6caf94b4b"
 	},
 	{
 		"subject": "history",
@@ -13,6 +14,7 @@
 		"category": "written",
 		"title": "we'll meet again",
 		"simpleDescription": "frank sinatra",
-		"complicatedDescription": "we'll meet again don't know where don't know wheeeeeen"
+		"complicatedDescription": "we'll meet again don't know where don't know wheeeeeeeen", 
+		"uuid": "8a3b9b70-7d5d-4741-b088-f94cb006c552"
 	}
 ]
